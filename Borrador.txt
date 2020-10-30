@@ -1,0 +1,5 @@
+Caso de Uso-Borrador
+
+Crearía una aplicación web, con sistema login, dentro de la aplicación web crearía un apartado de reportes y otro de control, que permita administrar los registros de los ítems.
+
+Pueden importar la base de datos en "mysql_ddbb" y ver un poco de cómo trabajaría este caso, cómo diseñaría la base de datos y demás. Esto es solo una parte, me hubiera gustado dedicarle más tiempo al proyecto.
